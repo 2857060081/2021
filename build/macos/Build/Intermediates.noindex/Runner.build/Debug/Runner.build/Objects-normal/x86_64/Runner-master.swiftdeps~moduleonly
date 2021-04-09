@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "acf31c4484414ba80a8b4ca443f6198c"
+build_time: [1617675124, 717026000]
+inputs:
+  "/Users/mac/Desktop/flutter_app/macos/Runner/MainFlutterWindow.swift": [1614735480, 0]
+  "/Users/mac/Desktop/flutter_app/macos/Runner/AppDelegate.swift": [1614735480, 0]
+  "/Users/mac/Desktop/flutter_app/macos/Flutter/GeneratedPluginRegistrant.swift": [1617675107, 0]
