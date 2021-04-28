@@ -32,14 +32,17 @@
 <body>
   <!-- This script installs service_worker.js to provide PWA functionality to
        application. For more information, see:
+         <script src="main.dart.js" type="application/javascript"></script>
        https://developers.google.com/web/fundamentals/primers/service-workers -->
   <script>
     if ('serviceWorker' in navigator) {
       window.addEventListener('flutter-first-frame', function () {
-        navigator.serviceWorker.register('flutter_service_worker.js?v=3341414677');
+        navigator.serviceWorker.register('flutter_service_worker.js?v=3253420698');
       });
     }
   </script>
-  <script src="2021/web/main.dart.js" type="application/javascript"></script>
+    <script src="js/location.js" type="application/javascript"></script>
+    <script src="2021/web/main.dart.js" type="application/javascript"></script>
+
 </body>
 </html>
